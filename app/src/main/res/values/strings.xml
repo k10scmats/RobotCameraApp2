@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RobotCameraApp</string>
+    <string name="button_camera_text">Take Picture</string>
+</resources>

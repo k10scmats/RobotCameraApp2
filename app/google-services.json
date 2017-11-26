@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "627397847551",
+    "firebase_url": "https://robotcarcamera.firebaseio.com",
+    "project_id": "robotcarcamera",
+    "storage_bucket": "robotcarcamera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627397847551:android:d3155b3a31787701",
+        "android_client_info": {
+          "package_name": "com.stoll.charles.robotcarphoneapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627397847551-09jelim5lh9c068rbo5t5f2qhu1r0ft1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stoll.charles.robotcarphoneapplication",
+            "certificate_hash": "529bf8fca195df4fd1f074380c7ee5b28aebba23"
+          }
+        },
+        {
+          "client_id": "627397847551-o88esofplkk9t4ek0cg3sv3t063hln9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-OW465n9weARJWRRmJpsam01jaXpCqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627397847551-o88esofplkk9t4ek0cg3sv3t063hln9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627397847551:android:a3def702f68923bc",
+        "android_client_info": {
+          "package_name": "com.matsuo.scott.robotcameraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627397847551-eafa373bgamsq0tn076lttepe66b3jos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matsuo.scott.robotcameraapp",
+            "certificate_hash": "529bf8fca195df4fd1f074380c7ee5b28aebba23"
+          }
+        },
+        {
+          "client_id": "627397847551-o88esofplkk9t4ek0cg3sv3t063hln9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-OW465n9weARJWRRmJpsam01jaXpCqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627397847551-o88esofplkk9t4ek0cg3sv3t063hln9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627397847551:android:52cb016bb9c292c5",
+        "android_client_info": {
+          "package_name": "com.matsuo.scott.robotcameraapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627397847551-a0bdpqn7s47qar3venhpj8hm1k2inqpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matsuo.scott.robotcameraapp2",
+            "certificate_hash": "529bf8fca195df4fd1f074380c7ee5b28aebba23"
+          }
+        },
+        {
+          "client_id": "627397847551-o88esofplkk9t4ek0cg3sv3t063hln9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-OW465n9weARJWRRmJpsam01jaXpCqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627397847551-o88esofplkk9t4ek0cg3sv3t063hln9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
